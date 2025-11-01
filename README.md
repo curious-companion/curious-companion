@@ -1,4 +1,4 @@
-# Hey, I'm Vibhanshu 👋
+# Hey, I'm Vibhanshu Jain 👋
 
 I'm a Full-Stack Developer and Product Engineer passionate about building automation tools and intelligent SaaS products.
 
