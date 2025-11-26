@@ -32,4 +32,4 @@ I'm a Full-Stack Developer and Product Engineer passionate about building automa
 
 
 ![Vibhanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=curious-companion&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=curious-companion&layout=compact&theme=tokyonight)
