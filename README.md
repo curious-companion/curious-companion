@@ -31,5 +31,7 @@ I'm a Full-Stack Developer and Product Engineer passionate about building automa
 | [**DSA Tracker**](https://github.com/curious-companion/DSA-Patterns-Neetcode) | Solved 120+ NeetCode problems with categorized solutions & explanations. | Java, Markdown |
 
 
-![Vibhanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=curious-companion&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=curious-companion&layout=compact&theme=tokyonight)
+![Vibhanshu's GitHub Stats](https://github-readme-stats-git-masterorg-sourabmaity.vercel.app/api?username=curious-companion&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats-git-masterorg-sourabmaity.vercel.app/api/top-langs/?username=curious-companion&layout=compact&theme=tokyonight)
+
