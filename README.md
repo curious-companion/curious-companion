@@ -27,7 +27,7 @@ I'm a Full-Stack Developer and Product Engineer passionate about building automa
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
 | [**CloutNest**](https://github.com/curious-companion/CloutNest) | SaaS that converts social comments into leads. Features AI response generation & Gmail automation. | Next.js, Firebase, AWS |
-| [**Local Store SKUs**](https://github.com/yourusername/LocalStoreSKU) | Micro-SKU platform for small businesses to digitize inventory & sales. | React, Node.js, MongoDB |
+| [**ShopSaathi**](https://github.com/curious-companion/ShopSaathi) | Micro-SKU platform for small businesses to digitize inventory & sales. | React, Node.js, MongoDB |
 | [**DSA Tracker**](https://github.com/curious-companion/DSA-Patterns-Neetcode) | Solved 120+ NeetCode problems with categorized solutions & explanations. | Java, Markdown |
 
 
